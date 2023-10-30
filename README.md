@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Currently, I'm pursuing a degree in Software Engineering.
+- 📚 Currently, I'm pursuing a degree in Software Engineering.
 
 - 💬 Focus on **JavaScript, HTML, CSS**
 
